@@ -22,7 +22,8 @@
 
   if (window.location.search.includes("owner=true")){ // don't send email if url includes ?owner=true
     console.log("no email sent");
-  } return;
+    return;
+  }
 
   console.log("email sent");
   // ==============================
