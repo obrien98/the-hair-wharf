@@ -1,0 +1,7 @@
+Business Name: The Hair Wharf
+Address: 20 Valley Road,
+City: Katonah
+State: NY
+ZIP Code: 10536
+Phone Number: 9142327271
+Email: thehairwharf@yahoo.com
